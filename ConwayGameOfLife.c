@@ -1,6 +1,5 @@
 //CONWAY'S GAME OF LIFE
 //ITP SEMESTER PROJECT
-//MUHAMMAD HAMZA, MUHAMMAD OVAIS, LAIBA BUKHSH
 
 #include <stdio.h> //standard input output library
 #include <stdlib.h> //standard c functions library
